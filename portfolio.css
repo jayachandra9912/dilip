@@ -1,0 +1,326 @@
+#navItem1{
+    color: #323f4b;
+}
+#navItem2{
+    color: #323f4b;
+}
+#navItem3{
+    color: #323f4b;
+    font-weight: bold;
+}
+#navItem4{
+    color: #323f4b;
+}
+.nav-link {
+    color: #323f4b!important;
+    
+    font-weight: bold!important;
+    }
+.portfolio-logo{
+    font-size: 34px;
+    font-weight: 700px;
+    border-style: solid;
+    border-width: 3px;
+    border-color:goldenrod;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.bg-section{
+    background-color: #191919;
+    background-size: cover;
+    object-fit: fill;
+    background-repeat: no-repeat;
+ 
+
+    /* position:relative;
+    right: 20;
+    left: 0; */
+    
+    
+   
+  
+}
+.images{
+    width: 50%;
+    height: 100%;
+    left: -200px;
+    position: relative;
+    
+    
+    border-radius: 50%;
+    
+}
+.circular-image {
+    width:420px;
+    height: 420px;
+    
+    border-radius: 50%;
+    
+    bottom: 50;
+    border-width: 5px;
+    border-style: solid  ;
+     border-color: #9aa5b1; ;
+     text-align: center;
+     align-items: center;
+     display: flex;
+     /* right: 0;
+     bottom: 0; */
+     
+   
+   
+    
+   
+    
+    
+   
+ 
+    margin-left:200px;
+    margin-top: 20px;
+    object-fit: fill;
+    float: left;
+    
+}
+.heading{
+    color: white;
+    font-size: 60px;
+    font-weight: 300;
+    font-style: italic;
+}
+.span{
+    font-weight: bold;
+    color: white;
+    font-size: 45px;
+    color: orange;
+    font-style: italic;
+}
+.para-discription{
+    color: #9aa5b1;
+    font-size: 40px;
+}
+.custom-button{
+    color: whitesmoke;
+    background-color: black;
+    width: 150px;
+    height: 45px;
+    border-width: px;
+    border-radius: 10px;
+    text-align: center;
+    border-color: orange;
+}
+.padding{
+    margin-top: 130px;
+    margin-bottom: 80px;
+}
+.back-section{
+    background-color:
+    #191a1d;
+   }
+   .card-color{
+       background-color: grey;;
+       box-shadow: 10px;
+       
+       
+       
+   }
+   .img{
+      
+      border-radius: 8px;
+      box-shadow: 20px;
+      
+     
+
+      
+   }
+   .h1{
+       color: white;
+       font-weight: 500;
+   }
+   .span-color{
+       color: orange;
+   }
+   .para-discription{
+       color: #9aa5b1;
+       font-size: 17px;
+       font-weight: normal;
+   }
+   .custom-outline-button{
+    color: orange;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 8px;
+    background-color: transparent;
+    border-color: orange;
+    height: 45px;
+    width: 130px;
+    
+}
+.my-service{
+    font-size: 28px;
+    font-weight: 700;
+    color: white;
+}
+.wcs-card{
+    background-color: #191a1d;; 
+    border-style: solid ;
+    
+    text-align: center;
+    
+    border-width: 1px;
+    margin: 15px;
+    
+    border-radius: 10px;
+    box-shadow: 20px;
+    overflow: hidden;
+    position: relative;
+
+}
+.para{
+    text-decoration: underline orange;
+    color: orange;
+
+}
+.card-para{
+    color: whitesmoke;
+    font-size: 16px;
+    font-weight: normal;
+}
+.custom-button-hire{
+    color: black;
+    background-color: orange;
+    width: 150px;
+    height: 45px;
+    border-width: 0px;
+    border-radius: 15px;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+}
+.heading2{
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: bold;
+}
+.follow-us-icon-container {
+    background-color:  transparent;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 15px;
+    margin: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 10px;
+    padding-left: 9px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    border-style: solid;
+    border-width: 0px;
+    border-color: #323f4b;
+  }
+  .para2{
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  input{
+    width: 100%;
+    padding:  0 30px;
+    border: 0px solid rgba(255, 255,255,0.25);
+    background: #323f4b;;
+    opacity: 1px;
+    left: 0;
+
+    border-radius: 5px;
+    outline: none;
+    color: #fff;
+    font-size: 2.2em;
+    position: absolute;
+    transition: 0.1s ease;
+    z-index: 1111;
+   
+    
+    
+
+  }
+  .label{
+    position: absolute;
+    font-size: 1.6em;
+    left: 0;
+    color: #fff;
+    padding: 0 25px;
+    margin: 0 20px;
+    background-color: grey;
+    transition: 0.2s ease;
+
+  }
+  .entry{
+    position: relative;
+    height: 35px;
+    line-height: 35px;
+
+  }
+  .heading3{
+    color: whitesmoke;
+    font-size: 25px;
+    font-weight: bold;
+}
+.skills{
+    width: 100%;
+    max-width: 600px;
+    padding: 0 20px;
+
+}
+.skill-name{
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    margin: 20px 0;
+}
+.skill-bar{
+    height: 12px;
+    background-color: #282828;
+    border: 3px;
+}
+.skill-per{
+    height: 10px;
+    background: orange;
+    border-radius: 3px;
+    position: relative;
+    animation: progress 0.45s ease-in-out forwards;
+
+}
+.skill-per::before{
+    content: attr(per);
+    position: absolute;
+    padding: 4px 6px;
+    background: white;
+    border-radius: 3px;
+    font-size: 12px;
+    top: -35px;
+    right: 0;
+    transform: translateX(50%);
+}
+.skill-per::after{
+    content:"";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    top: -20px;
+    right: 0;
+    transform: translateX(50%) rotate(45deg);
+    border-radius: 2px;
+}
+@keyframes progress{
+    from{
+        width: 0;
+    }
+    top{
+        
+        opacity: 1;
+    }
+}
+  
+    
+  
